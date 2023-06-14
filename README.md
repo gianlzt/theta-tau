@@ -36,4 +36,5 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 ## Contributions:
 
 `Adam Vick` - Vice Regent Fall 2023
+
 `Zo Abbasi` - Senior Webmaster Fall 2023
